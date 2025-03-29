@@ -20,11 +20,6 @@ name    = "Tags"
 pageRef = "tags"
 weight  = 20
 
-[[main]]
-name    = "Literatura"
-pageRef = "tags/literatura/"
-weight  = 20
-
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
