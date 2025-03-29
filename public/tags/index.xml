@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Neus Puig</copyright>
-    <lastBuildDate>Wed, 26 Mar 2025 19:57:31 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2025 19:57:31 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Asiatico</title>
-      <link>http://localhost:1313/tags/asiatico/</link>
-      <pubDate>Wed, 26 Mar 2025 19:57:31 +0100</pubDate>
+      <title>Castellano</title>
+      <link>http://localhost:1313/tags/castellano/</link>
+      <pubDate>Tue, 25 Mar 2025 19:57:31 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/asiatico/</guid>
+      <guid>http://localhost:1313/tags/castellano/</guid>
       <description></description>
       
     </item>
@@ -22,9 +22,29 @@
     <item>
       <title>Literatura</title>
       <link>http://localhost:1313/tags/literatura/</link>
-      <pubDate>Wed, 26 Mar 2025 19:57:31 +0100</pubDate>
+      <pubDate>Tue, 25 Mar 2025 19:57:31 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/literatura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>http://localhost:1313/tags/english/</link>
+      <pubDate>Tue, 12 Nov 2024 19:57:31 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/english/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>http://localhost:1313/tags/seo/</link>
+      <pubDate>Tue, 12 Nov 2024 19:57:31 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/seo/</guid>
       <description></description>
       
     </item>
