@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Neus Puig</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Neus Puig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Neus Puig</copyright>
+    <lastBuildDate>Wed, 26 Mar 2025 19:57:31 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MultiCulturalidad</title>
+      <link>http://localhost:1313/posts/2025-03-26-multiculturalidad/</link>
+      <pubDate>Wed, 26 Mar 2025 19:57:31 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-03-26-multiculturalidad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>¿Qué es marzo asiático? 5 libros para tu reto lector este mes</title>
+      <link>http://localhost:1313/posts/2025-03-25-marzo-asiatico/</link>
+      <pubDate>Tue, 25 Mar 2025 19:57:31 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-03-25-marzo-asiatico/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-03-25-marzo-asiatico/featured-marzo-asiatico-banner.webp" />
+    </item>
+    
+  </channel>
+</rss>
