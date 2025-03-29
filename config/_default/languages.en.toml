@@ -17,9 +17,9 @@ dateFormat  = "2 January 2006"
 [params.author]
 name  = "Neus Puig"
 #email = "youremail@example.com"
-image = "img/nene.png"
+image = "img/neus.png"
 #   imageQuality = 96
-headline = "La millor escriptora i correctora d'aquesta generació"
+headline = "Bienvenidos/as a mi blog personal, con textos e ideas varias"
 #bio = "A little bit about you"
 links = [
     { email = "mailto:hello@your_domain.com" },
