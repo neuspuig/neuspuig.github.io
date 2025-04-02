@@ -4,6 +4,9 @@ draft = false
 title = '¿Qué es marzo asiático? 5 libros para tu reto lector este mes'
 tags = [ 'Literatura', 'Castellano' ]
 +++
+
+Artículo para la revista [<u>Cultus Magazine</u>](https://cultusmagazine.es/author/neuspuig/). 
+
 ## El reto lector para el mes de marzo
 
 Ahora que se va acercando el final del mes de marzo quizás hayas estado viendo publicaciones por redes que hacen referencia a este fenómeno y te hayas preguntado ¿qué es marzo asiático?. Se trata de una iniciativa ideada por [<u>Magrat Ajostiernos</u>](https://www.youtube.com/channel/UCGaMl2kAz8wyovEScxnWwmg), una **booktuber** que alrededor de 2019 se propuso leer libros de **autores de países asiáticos** para adentrarse más a su literatura y a su diversa cultura, que a veces puede resultarnos más lejanas o incluso desconocidas a los lectores españoles.
