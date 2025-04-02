@@ -1,7 +1,7 @@
 +++
 date = '2025-04-01T19:57:31+01:00'
 draft = false
-title = 'La estética de 'Severance''
+title = "La estética de 'Severance'"
 tags = [ 'Cine', 'Castellano', 'SEO' ]
 +++
 
