@@ -2,9 +2,8 @@
 date = '2023-05-01T19:57:31+01:00'
 draft = false
 title = 'Muestra de artículos SEO para Grupo Todoplano'
-tags = [ 'SEO', 'Catellano' ]
+tags = [ 'SEO', 'Castellano' ]
 +++
-
 En esta publicación explico los objetivos de algunos de los artículos SEO que escribí para Grupo Todoplano, una empresa dedicada a los productos de descanso (colchones, almohadas y accesorios).  
 
 ## [<u>Disfruta del cine clásico con los sillones clásicos de Stressless</u>](https://www.grupotodoplano.com/blog/disfruta-del-cine-clasico-con-los-sillones-clasicos-de-stressless/)
