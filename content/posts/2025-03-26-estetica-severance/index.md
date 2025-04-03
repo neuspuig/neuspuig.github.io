@@ -2,7 +2,7 @@
 date = '2025-04-01T19:57:31+01:00'
 draft = false
 title = "La estética de 'Severance'"
-tags = [ 'Cine', 'Castellano', 'SEO' ]
+tags = [ 'Cine', 'Castellano' ]
 +++
 
 _Severance_ es la serie estrella de Apple TV, que en solo dos temporadas ha creado revuelo entre los espectadores, los cuales han llenado las redes sociales con sus teorías e hipótesis de los muchos misterios que mantienen la trama. Además de las incógnitas y de los guiones escritos con gran maestría, otro aspecto que llama la atención es el visual. Así es como la estética de _Severance_ logra complementar las incógnitas que de la trama, ya que hay una serie de elementos que chocan con nuestro entendimiento y que dejan al espectador con muchos interrogantes. 

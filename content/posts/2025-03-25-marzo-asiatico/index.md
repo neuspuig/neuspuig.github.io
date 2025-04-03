@@ -2,7 +2,7 @@
 date = '2025-03-25T19:57:31+01:00'
 draft = false
 title = '¿Qué es marzo asiático? 5 libros para tu reto lector este mes'
-tags = [ 'Literatura', 'Castellano' ]
+tags = [ 'Literatura', 'Castellano', 'SEO' ]
 +++
 
 Artículo para la revista [<u>Cultus Magazine</u>](https://cultusmagazine.es/author/neuspuig/). 
