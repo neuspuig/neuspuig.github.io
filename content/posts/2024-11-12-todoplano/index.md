@@ -10,7 +10,7 @@ En esta publicación explico los objetivos de algunos de los artículos SEO que 
 
 El público objetivo para este artículo eran los clientes potenciales para un producto de gama alta como son los sillones de la marca Stressless. Destaqué los valores de la marca y las altas prestaciones (diseño noruego, calidad de los materiales y uso de tecnología) y relacioné los nombres de algunos de sus productos con el **cine clásico**, con la idea que se relaciona con la atemporalidad y es percibido como sofisticado. 
 
-! [Cinta de grabar antigua](/2024-11-12-todoplano/img/old-film.png).
+![Cinta de grabar antigua](https://images.pexels.com/photos/65128/pexels-photo-65128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## [<u>Infusiones para dormir bien</u>](https://www.grupotodoplano.com/blog/infusiones-para-dormir-bien/	)
 
