@@ -5,10 +5,6 @@ title = 'Llega ‘Cuando cae el otoño’, el nuevo thriller de François Ozon'
 tags = [ 'Cine', 'Castellano' ]
 +++
 
-Artículo para la revista [<u>Cultus Magazine</u>](https://cultusmagazine.es/author/neuspuig/). 
-
-# Llega ‘Cuando cae el otoño’, el nuevo thriller de François Ozon
-
 El 4 de abril llega a la plataforma Filmin la última película de François Ozon, _Cuando cae el otoño_, una historia sobre la complejidad del ser y las segundas oportunidades que **ganó el Premio del Jurado al Mejor Guion en el Festival de San Sebastián**.
 
 Nos relata la historia de Michelle, una mujer jubilada, interpretada por Hélène Vincent, que vive en un apacible pueblo de la campiña francesa. En compañía de su mejor amiga, Marie-Claude (Josiane Balasko), va a buscar setas en el bosque, que después preparará para dar la bienvenida a su hija y a su nieto, quienes van a pasar unos días de vacaciones. Un inicio de trama familiar y aparentemente inocuo que se va oscureciendo cuando, nada más tras su llegada, la hija de Michelle come setas venenosas por accidente y decide volverse a París con el niño, resurgiendo así las tensiones entre madre e hija. En paralelo, conocemos el hijo de Marie-Claude (Pierre Lottin) y su reintegración a la sociedad, después de haber cumplido condena en prisión.
@@ -29,3 +25,4 @@ Esta **ambivalencia** es igualmente válida para otros protagonistas, cuyas inte
 
 _Cuando cae el otoño_ es la muestra del **talento multifacético** de François Ozon y su capacidad por rodar cintas de varios géneros. Se puede clasificar como un thriller, pero es mucho más. Es un drama realista que rebosa cotidianeidad, es una historia de relaciones familiares y un relato de los misterios que conforman la psique de cada persona.
 
+Artículo originalmente publicado en la revista [<u>Cultus Magazine</u>](https://cultusmagazine.es/author/neuspuig/). 
