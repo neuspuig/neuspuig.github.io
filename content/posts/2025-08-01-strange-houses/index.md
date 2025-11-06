@@ -1,6 +1,6 @@
 +++
 date = '2025-08-01T19:57:31+01:00'
-draft = true
+draft = false
 title = '‘Strange Houses’, la novela de Uketsu que desvela la verdad que esconden las paredes'  
 tags = [ 'Literatura', 'Castellano' ]
 +++
